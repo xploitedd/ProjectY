@@ -1,0 +1,8 @@
+name: ProjectY-Test
+main: me.xploited.projecty.Test
+version: "0.1"
+depend: ["ProjectY-Lib"]
+
+commands:
+  hello:
+    aliases: ["h"]

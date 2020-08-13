@@ -1,0 +1,4 @@
+rootProject.name = 'ProjectY'
+include 'ProjectY-Lib'
+include 'ProjectY-Test'
+

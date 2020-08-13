@@ -1,0 +1,5 @@
+name: ProjectY-Lib
+main: me.xploited.projecty.NPCLib
+version: "0.1"
+author: xploited
+depend: ["ProtocolLib", "PacketWrapper"]
